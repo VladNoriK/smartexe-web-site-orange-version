@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "SofiaProRegular";
+    src: url("../fonts/sofiapro/regular/sofia-pro-regular.eot");
+    src: url("../fonts/sofiapro/regular/sofia-pro-regular.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/sofiapro/regular/sofia-pro-regular.woff") format("woff"),
+        url("../fonts/sofiapro/regular/sofia-pro-regular.ttf") format("truetype"),
+        url("../fonts/sofiapro/regular/sofia-pro-regular.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SofiaProBlack";
+    src: url("../fonts/sofiapro/bold/sofia-pro-bold.eot");
+    src: url("../fonts/sofiapro/bold/sofia-pro-bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/sofiapro/bold/sofia-pro-bold.woff") format("woff"),
+    url("../fonts/sofiapro/bold/sofia-pro-bold.ttf") format("truetype"),
+    url("../fonts/sofiapro/bold/sofia-pro-bold.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+    /*src: url("../fonts/sofiapro/black/sofia-pro-black.eot");
+    src: url("../fonts/sofiapro/black/sofia-pro-black.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/sofiapro/black/sofia-pro-black.woff") format("woff"),
+        url("../fonts/sofiapro/black/sofia-pro-black.ttf") format("truetype"),
+        url("../fonts/sofiapro/black/sofia-pro-black.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;*/
+}
+
+@font-face {
+    font-family: "SofiaProBold";
+    src: url("../fonts/sofiapro/bold/sofia-pro-bold.eot");
+    src: url("../fonts/sofiapro/bold/sofia-pro-bold.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/sofiapro/bold/sofia-pro-bold.woff") format("woff"),
+        url("../fonts/sofiapro/bold/sofia-pro-bold.ttf") format("truetype"),
+        url("../fonts/sofiapro/bold/sofia-pro-bold.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "SofiaProLightItalic";
+    src: url("../fonts/sofiapro/light-italic/sofia-pro-light-italic.eot");
+    src: url("../fonts/sofiapro/light-italic/sofia-pro-light-italic.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/sofiapro/light-italic/sofia-pro-light-italic.woff") format("woff"),
+        url("../fonts/sofiapro/light-italic/sofia-pro-light-italic.ttf") format("truetype"),
+        url("../fonts/sofiapro/light-italic/sofia-pro-light-italic.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/myriadpro-regular/MyriadPro-Regular.eot") format("opentype");
+    src: url("../fonts/myriadpro-regular/MyriadPro-Regular.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/myriadpro-regular/MyriadPro-Regular.woff") format("woff"),
+        url("../fonts/myriadpro-regular/MyriadPro-Regular.ttf") format("truetype"),
+        url("../fonts/myriadpro-regular/MyriadPro-Regular.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal; }
