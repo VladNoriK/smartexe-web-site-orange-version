@@ -74,13 +74,12 @@
 .category-send-message-block .autoExpand {
     padding-top: 1px;
     margin-top: 7px;
-    margin-bottom: -7px;
 }
 
 /* SEND MESSAGE BLOCK, MESSAGE INPUT */
 
 .input-fields .be-blue {
-    border-bottom-color: rgb(255, 149, 101);;
+    border-bottom-color: rgb(255, 149, 101);
 }
 
 .input-fields .has-success {
