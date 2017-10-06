@@ -720,7 +720,7 @@
     /* LAYER-3 */
     .layer-3 {
         background: url("../../images/layer_3_mobile_bgi.png") no-repeat 50% 50%;
-        background-size: 100%;
+        background-size: 180%;
         padding: 25px 0;
         height: 200px;
     }
