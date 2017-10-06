@@ -693,10 +693,10 @@
         top: -41px;
         left: -344px;
     }
-    .layer-2 .image svg {
+   /* .layer-2 .image svg {
         max-width: 50px;
         max-height: 50px;
-    }
+    }*/
     .layer-2 .block-5 .image,
     .layer-2 .block-5 svg {
         height: 55px;
