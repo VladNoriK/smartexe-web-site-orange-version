@@ -307,7 +307,7 @@
         .layer-1 svg path,
         .layer-1 svg rect,
         .layer-1 svg polygon {
-            fill: rgba(255, 102, 51, 0.75);
+            fill: rgb(255, 102, 51)
         }
         .layer-1 .block {
             position: relative;
@@ -360,6 +360,9 @@
             font-weight: 700;
             transition: 0.5s;
             cursor: pointer;
+        }
+        .layer-1 .block div:last-child:hover > span {
+            color: rgb(255, 102, 51);
         }
         .layer-1 .block:nth-child(4) h3 {
             font-size: 16px;
