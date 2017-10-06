@@ -9,6 +9,9 @@
     font-weight: bold;
     margin: 5px 0;
 }
+.category-send-message-block .left-labels a {
+    color: rgb(255, 149, 101);
+}
 .category-send-message-block .left-labels span {
     font-weight: normal;
 }
@@ -65,12 +68,21 @@
     width: 100%;
     margin-bottom: 0;
 }
+.category-send-message-block .message-input {
+    min-height: 28px;
+}
+.category-send-message-block .autoExpand {
+    padding-top: 1px;
+    margin-top: 7px;
+    margin-bottom: -7px;
+}
 
 /* SEND MESSAGE BLOCK, MESSAGE INPUT */
 
 .input-fields .be-blue {
-    border-bottom-color: #2e8390;
+    border-bottom-color: rgb(255, 149, 101);;
 }
+
 .input-fields .has-success {
     border-color: #2dcc70;
     color: #2db259;
@@ -116,6 +128,15 @@ textarea{
     min-height: 26px;
     max-height: 104px;
     overflow-y: hidden;
+}
+
+.category-send-message-block .message-input {
+    min-height: 28px;
+}
+.category-send-message-block .autoExpand {
+    padding-top: 1px;
+    margin-top: 7px;
+    margin-bottom: -7px;
 }
 
 /* BUTTON2 STYLE */
