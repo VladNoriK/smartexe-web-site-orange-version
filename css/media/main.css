@@ -241,6 +241,7 @@
         background-size: 280%;
         background-position: 50% 60%;
         padding: 35px 0 0;
+        background-image: url(../../images/mobile/footer_bgi.jpg);
     }
     .footer-1:before {
         background: url(../../images/mobile_sharp_line.png) no-repeat 0 100%;
@@ -295,6 +296,7 @@
         position: relative;
         height: 200px;
         background-size: 100%;
+        background-image: url(../../images/mobile/category_bgi.png);
     }
     .category-under-block {
         padding-top: 65px;
